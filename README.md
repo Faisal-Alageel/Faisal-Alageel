@@ -1,10 +1,18 @@
 <h1 align="center">Hi 😄 , I'm Faisal Alageel</h1>
 <h3 align="center">A passionate Data Scientist from Saudi Arabia</h3>
 
+
+<h2 align="left">My Projects: </h2>
+ 
+ You can find my personal projects [Here](https://github.com/Faisal-Alageel?tab=repositories).
+
+<br>
+<h2 align="left">My Skills: </h2>
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" alt="C" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-</p>
+</p> 
+<br>
 
 <h3 align="left">Data Science:</h3>
 <p align="left"> 
@@ -15,6 +23,7 @@
 <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/> </a> <a href="https://plotly.com" target="_blank" rel="noreferrer"> <img src="https://plotly-marketing-website.cdn.prismic.io/plotly-marketing-website/948b6663-9429-4bd6-a4cc-cb33231d4532_logo-plotly.svg" alt="Plotly" width="40" height="40"/> </a> 
 
 </p>
+<br>
 
 <h3 align="left">Other Tools:</h3>
 <p align="left"> 
@@ -23,7 +32,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
 </p>
 
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faisal-alageel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal alageel" height="30" width="40" /></a>
