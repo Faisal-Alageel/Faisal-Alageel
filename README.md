@@ -27,7 +27,7 @@
 
 <h3 align="left">Other Tools:</h3>
 <p align="left"> 
-<a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://www.alteryx.com/-/jssmedia/feature/navigation/alteryx-logo.svg?rev=0b88d1e27cb644418f494504949758f8&extension=" alt="Alteryx" width="40" height="40"/> </a>
+<a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://www.alteryx.com/-/jssmedia/project/alteryx/navigation/alteryx-logo.svg?rev=0b88d1e27cb644418f494504949758f8" alt="Alteryx" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
 </p>
