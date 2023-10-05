@@ -8,11 +8,6 @@
 
 <br>
 <h2 align="left">My Skills: </h2>
-<h3 align="left">Programming Languages:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" alt="C" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-</p> 
-<br>
 
 <h3 align="left">Data Science:</h3>
 <p align="left"> 
@@ -25,7 +20,7 @@
 </p>
 <br>
 
-<h3 align="left">Other Tools:</h3>
+<h3 align="left">Tools:</h3>
 <p align="left"> 
  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="Apache Spark" width="60" height="40"/> </a>
  <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.shortpixel.ai/spai2/q_glossy+ret_img+to_auto/www.alteryx.com/wp-content/themes/trifacta/assets/favicon/android-icon-192x192.png" alt="Alteryx" width="40" height="40"/> </a>
